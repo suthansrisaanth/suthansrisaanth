@@ -1,6 +1,6 @@
 ## Hi there 👋 It's me suthansrisaanth
 
-UI/UX Design(Fresher ready to work)
+UI/UX Designer (Fresher ready to work)
 - 👋 Hi, I’m @suthansrisaanth
 - 👀 I’m interested in Design
 - 🔭 Here's my [portfolio](https://www.behance.net/fb30235e) 
