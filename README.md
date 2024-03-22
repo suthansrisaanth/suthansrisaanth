@@ -1,24 +1,28 @@
+## Hi there 👋 It's me suthansrisaanth
+
+UI/UX Design(Fresher ready to work)
 - 👋 Hi, I’m @suthansrisaanth
-- 👀 I’m interested in UI/UX Design
+- 👀 I’m interested in Design
 - 🔭 Here's my [portfolio](https://www.behance.net/fb30235e) 
 - 🌱 I’m currently learning Adobe XD
 - 💞️ I’m looking to collaborate on AI
-- 📫 How to reach me [...](https://www.linkedin.com/in/suthan-sri-saanth-r-81878a16a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- 📫 How to reach me [(https://www.linkedin.com/in/suthan-sri-saanth-r-81878a16a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)]
 - 😄 Pronouns: Designer
 - ⚡ Fun fact: Quick Leaner
 
 ### IDE and Tools I Use
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
-<img height="50" width="50" src="https://img.icons8.com/doodle/48/000000/adobe-photoshop.png"/>
-<img height="50" width="50" src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white"/>
-<img height="50" width="50" src="[https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/](https://www.flaticon.com/free-icon/sketch_732244?term=sketch&page=1&position=1&origin=search&related_id=732244)>
-<img height="50" width="50" src="[https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/](https://www.canva.com/login/?redirect=%2Fdesign%2FDAFWKYqD_70%2FlxYpE4RYeT6R_t8R-F_-fQ%2Fedit)>
-<img height="50" width="50" src="[https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/](https://www.flaticon.com/free-icon/chatgpt_12222589?term=chatgpt&page=1&position=3&origin=search&related_id=12222589)>
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/> <img height="50" width="50" src="https://img.icons8.com/doodle/48/000000/adobe-photoshop.png"/>
+<img height="50" width="50" src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white"/> <img height="50" width="50" src="https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black> <img height="50" width="50" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white>
+<img height="50" width="50" src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white> <img height="50" width="50" src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white> <img height="50" width="50" src="https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665> <img height="50" width="50" src=">
+<img height="50" width="50" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white> <img height="50" width="50" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white>
+<img width="50" height="50" src="https://img.icons8.com/ios/50/chatgpt.png" alt="chatgpt"/>
 
 ### 💻 Workspace Spec
-<img height="30" src="[https://img.shields.io/badge/Macbook-Pro_M1-ED1C24?style=for-the-badge&logo=apple&logoColor=white"/](https://www.flaticon.com/free-icon/apple_731985?term=ios&page=1&position=1&origin=search&related_id=731985)>
-<img height="30" src="[https://img.shields.io/badge/Macbook-Pro_M1-ED1C24?style=for-the-badge&logo=apple&logoColor=white"/](https://www.flaticon.com/free-icon/android_152753?term=android&page=1&position=4&origin=search&related_id=152753)>
-<img height="30" src="[https://img.shields.io/badge/Macbook-Pro_M1-ED1C24?style=for-the-badge&logo=apple&logoColor=white"/](https://www.flaticon.com/free-icon/world-wide-web_1006771?term=web&page=1&position=1&origin=search&related_id=1006771)>
+<img width="50" height="50" src="https://img.icons8.com/material-outlined/24/mac-os--v2.png" alt="mac-os--v2"/>
+<img width="50" height="50" src="https://img.icons8.com/ios/50/android-os.png" alt="android-os"/>
+<img width="50" height="50" src="https://img.icons8.com/pastel-glyph/64/monitor--v1.png" alt="monitor--v1"/>
+
+[![suthansrisaanth's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=suthansrisaanth&bg_color=000000&color=ffffff&line=47ff4a&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!---
 suthansrisaanth/suthansrisaanth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
