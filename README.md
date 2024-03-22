@@ -14,14 +14,14 @@ UI/UX Designer (Fresher ready to work)
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/> 
 <img height="50" width="50" src="https://img.icons8.com/doodle/48/000000/adobe-photoshop.png"/>
 <img height="50" width="50" src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white"/> 
-<img height="50" width="50" src="https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black> 
-<img height="50" width="50" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white>
-<img height="50" width="50" src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white> 
-<img height="50" width="50" src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white> 
-<img height="50" width="50" src="https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665> 
-<img height="50" width="50" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white> 
-<img height="50" width="50" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white>
-<img width="50" height="50" src="https://img.icons8.com/ios/50/chatgpt.png" alt="chatgpt"/>
+<img height="50" width="50" src="https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black"/> 
+<img height="50" width="50" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
+<img height="50" width="50" src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white"/> 
+<img height="50" width="50" src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white"/> 
+<img height="50" width="50" src="https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665"/> 
+<img height="50" width="50" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/> 
+<img height="50" width="50" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white"/>
+<img width="50" height="50" src="https://img.icons8.com/ios/50/chatgpt.png"alt="chatgpt"/>
 
 ### 💻 Workspace Spec
 <img width="50" height="50" src="https://img.icons8.com/material-outlined/24/mac-os--v2.png" alt="mac-os--v2"/>
