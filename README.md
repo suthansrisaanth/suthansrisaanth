@@ -8,9 +8,9 @@
 - ⚡ Fun fact: Quick Leaner
 
 ### IDE and Tools I Use
-<img height="50" width="50" src="[https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/](https://www.flaticon.com/free-icon/figma_5968705?term=figma&page=1&position=2&origin=search&related_id=5968705)>
-<img height="50" width="50" src="[https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/](https://www.flaticon.com/free-icon/photoshop_5968520?term=photoshop&page=1&position=4&origin=search&related_id=5968520)>
-<img height="50" width="50" src="[https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/](https://www.flaticon.com/free-icon/xd_5611129?term=adobe+xd&page=1&position=4&origin=search&related_id=5611129)>
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
+<img height="50" width="50" src="https://img.icons8.com/doodle/48/000000/adobe-photoshop.png"/>
+<img height="50" width="50" src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white"/>
 <img height="50" width="50" src="[https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/](https://www.flaticon.com/free-icon/sketch_732244?term=sketch&page=1&position=1&origin=search&related_id=732244)>
 <img height="50" width="50" src="[https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/](https://www.canva.com/login/?redirect=%2Fdesign%2FDAFWKYqD_70%2FlxYpE4RYeT6R_t8R-F_-fQ%2Fedit)>
 <img height="50" width="50" src="[https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/](https://www.flaticon.com/free-icon/chatgpt_12222589?term=chatgpt&page=1&position=3&origin=search&related_id=12222589)>
